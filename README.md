@@ -18,7 +18,7 @@ This application requires Python. You can run the script using any Python 3.x in
 
    You can download the source code as a ZIP file or clone the repository using Git:
    ```bash
-   git clone https://github.com/yourusername/gpa-calculator.git
+   git clone https://github.com/Chandrikapeela/Cgpa-calculator_python.git
    ```
 
 2. **Navigate to the Project Directory**
